@@ -4,7 +4,9 @@ public class Main {
 
         System.out.println("Lol");
 
-        System.out.println("hehe boii");
+        System.out.println("Bye");
+
+        String lodu = "bhosdu";
 
     }
 }
